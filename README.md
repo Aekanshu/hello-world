@@ -1,3 +1,3 @@
 # hello-world
 this is the base of programming
-i m aekanshu and i like python and money
+i m aekanshu, i like python and money or both.
